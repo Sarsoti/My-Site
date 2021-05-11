@@ -1,0 +1,129 @@
+body{
+    color: black;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   
+}
+h1{
+    margin: 50px auto 50px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: green;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font: bold;
+    color: green;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #63BFBF;
+    
+}
+p{
+    line-height: 2;
+}
+.cloudtwo{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  
+}
+.cloudone{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+   
+}
+
+.topContainer{
+    background-color: cadetblue;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.middleContainer{
+   margin: 100px 0;
+  
+    
+}
+
+.footer{
+ height: 80px;   
+
+}
+.mine-photo{
+    height: 150px;
+    width: 150px;
+}
+.skill{
+   width: 40%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   
+}
+
+
+
+.skill-photo{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.dance{
+    width: 25%; 
+    float: right; 
+    margin-left: 30px;
+}
+hr{
+   border: dotted grey 6px;
+   border-bottom: none;
+   width: 5%;
+   margin: 100px auto;
+  
+
+   
+}
+.skill-pt{
+  
+    margin: auto;
+    
+}
+.contact{
+    width: 30%;
+    margin: 40px auto 40px;
+}
+.btn {
+    background: #46dbb1;
+    background-image: -webkit-linear-gradient(top, #46dbb1, #6ccf63);
+    background-image: -moz-linear-gradient(top, #46dbb1, #6ccf63);
+    background-image: -ms-linear-gradient(top, #46dbb1, #6ccf63);
+    background-image: -o-linear-gradient(top, #46dbb1, #6ccf63);
+    background-image: linear-gradient(to bottom, #46dbb1, #6ccf63);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #4ec9bf;
+    background-image: -webkit-linear-gradient(top, #4ec9bf, #34d939);
+    background-image: -moz-linear-gradient(top, #4ec9bf, #34d939);
+    background-image: -ms-linear-gradient(top, #4ec9bf, #34d939);
+    background-image: -o-linear-gradient(top, #4ec9bf, #34d939);
+    background-image: linear-gradient(to bottom, #4ec9bf, #34d939);
+    text-decoration: none;
+  }
+.footer{
+    margin-top: 30px;
+    background-color:cadetblue;
+}
